@@ -3,4 +3,4 @@
 Kodu Program
 =========
 
-A Kodu game I created in Kodu 
+A Kodu game I created in Kodu 1.4.
