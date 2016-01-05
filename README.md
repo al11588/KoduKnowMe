@@ -1,4 +1,4 @@
-![Image of Kodu Logo](http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-06-20-metablogapi/0576.Kodu_2D00_Character_5F00_01D45528.png)
+![Image of Kodu Logo](http://kodu.blob.core.windows.net/kodu/koduguy1.png)
 
 Kodu Program
 =========
